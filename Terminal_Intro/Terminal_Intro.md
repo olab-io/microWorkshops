@@ -39,6 +39,7 @@ A command shell is an alternative to a Graphical User Interface (GUI) and is som
 
 While windows has a `command.exe` and a `cmd.exe` prompt, these are not equivalent to a traditional `bash` terminal.  For a `bash` experience, try:
 
+- [Ubuntu Bash][12]
 - [MinGW][4]
 - [Cygwin][5]
 
@@ -177,3 +178,4 @@ More (<http://www.tldp.org/LDP/abs/html/io-redirection.html>)
 [6]: https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=en
 [10]: http://en.wikipedia.org/wiki/Comparison_of_command_shells
 [11]: http://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[12]: http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
